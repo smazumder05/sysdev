@@ -8,7 +8,7 @@ sysdev
 A repository for all my dev vms, Vagrant, Packer and Docker containers. See the Wiki pages for more information.
 
 
-| [![i1] [techdocs-image]] [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [roadmap] | [![i4] [contributing-image]] [contributing] |
+| [![i1] [techdocs-image]]Technical Docs [techdocs] | [![i2] [setup-image]] [setup] | [![i3] [roadmap-image]] [roadmap] | [![i4] [contributing-image]] [contributing] |
 
 ## Contributing
 
